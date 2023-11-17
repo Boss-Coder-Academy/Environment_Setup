@@ -160,7 +160,6 @@ Extensions in Visual Studio Code (VS Code) are add-ons that expand the functiona
 ## C. GitHub
 
 
-
 ### 1. Introduction to GitHub: 
 
 GitHub is a web-based platform designed for hosting and managing software development projects. It's a place where developers and teams store their code, collaborate on projects, track changes, and work together to build software.
