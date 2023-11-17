@@ -159,7 +159,7 @@ Extensions in Visual Studio Code (VS Code) are add-ons that expand the functiona
 
 ## C. GitHub
 
-- - - 
+
 
 ### 1. Introduction to GitHub: 
 
