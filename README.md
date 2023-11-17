@@ -1,18 +1,20 @@
 # Environment Setup
 
-- - - 
 
-## IDE 
 
- - - - 
+## A. IDE 
+
+
 
 IDE stands for Integrated Development Environment. It's a software that has everything they need to write, fix, and test their code conveniently in one place.
 
 
 For this Course, we will be using VS code as our IDE and we will be coding in the same IDE.
 
+- - - 
 
-## VS Code
+
+## B. VS Code
 
 ### 1. Introduction to VS Code
 
@@ -150,12 +152,12 @@ Extensions in Visual Studio Code (VS Code) are add-ons that expand the functiona
 
 
 
+- - - 
 
 
 
 
-
-## GitHub
+## C. GitHub
 
 - - - 
 
@@ -187,7 +189,7 @@ Issues are used to track bugs, tasks, or feature requests related to a repositor
 
 
 
-### 2. Creating a GitHub Account:
+### 3. Creating a GitHub Account:
            
 + Go to github.com in your web browser.
 + Click on the "Sign Up" button.
@@ -196,7 +198,7 @@ Issues are used to track bugs, tasks, or feature requests related to a repositor
 + Configuring Your Profile
 
 
-### 3. Cloning Repositories:
+### 4. Cloning Repositories:
 
 Cloning a repository means creating a local copy of a repository from GitHub onto your computer. To clone a repository:
 
@@ -213,7 +215,7 @@ Cloning a repository means creating a local copy of a repository from GitHub ont
 + A compressed file will be downloaded. Extract this file and open this folder with VS Code.  
 
 
-### 4. Creating a Repository:
+### 5. Creating a Repository:
 
 + Open your web browser and go to github.com. Log in to your GitHub account if you haven't already.
 
