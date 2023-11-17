@@ -139,7 +139,7 @@ Extensions in Visual Studio Code (VS Code) are add-ons that expand the functiona
 
 + Whenever you select an extension the following page appears here you need to click the “Install” button to add that extension:
 
-![Alt text](https://i.postimg.cc/VN1fdKGg/12.jpg)
+![Alt text](https://i.postimg.cc/6Q37XV33/screenshot-2023-11-17-at-2-50-33-pm.png))
 
 
 
