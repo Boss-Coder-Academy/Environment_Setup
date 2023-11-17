@@ -1,6 +1,10 @@
 # Environment Setup
 
+- - - 
+
 ## IDE 
+
+ - - - 
 
 IDE stands for Integrated Development Environment. It's a software that has everything they need to write, fix, and test their code conveniently in one place.
 
@@ -153,6 +157,8 @@ Extensions in Visual Studio Code (VS Code) are add-ons that expand the functiona
 
 ## GitHub
 
+- - - 
+
 ### 1. Introduction to GitHub: 
 
 GitHub is a web-based platform designed for hosting and managing software development projects. It's a place where developers and teams store their code, collaborate on projects, track changes, and work together to build software.
@@ -221,7 +227,7 @@ Cloning a repository means creating a local copy of a repository from GitHub ont
 
 + Click on the "New" button or a similar option that says "New repository." :
 
-![Alt text](https://i.postimg.cc/0QXPXP8X/15.jpg
+![Alt text](https://i.postimg.cc/0QXPXP8X/15.jpg)
 
 
 
