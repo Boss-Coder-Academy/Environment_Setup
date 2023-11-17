@@ -32,7 +32,7 @@ https://code.visualstudio.com/
   
 
 
-+ Once you visit the link we will find a Download button there as shown:
++ Once you visit the link you will find a Download button there as shown:
 
 ![Alt text](https://i.postimg.cc/BnkkXbmC/1.jpg)
 
