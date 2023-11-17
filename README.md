@@ -9,7 +9,7 @@
 IDE stands for Integrated Development Environment. It's a software that has everything they need to write, fix, and test their code conveniently in one place.
 
 
-For this Course, we will be using VS code as our IDE and we will be coding in the same IDE.
+For this Course, you will be using VS code as your IDE and you will be coding in the same IDE.
 
 - - - 
 
@@ -18,7 +18,7 @@ For this Course, we will be using VS code as our IDE and we will be coding in th
 
 ### 1. Introduction to VS Code
 
-VS Code, or Visual Studio Code, is a popular lightweight code editor developed by Microsoft It helps us write and run code on our machine.
+VS Code, or Visual Studio Code, is a popular lightweight code editor developed by Microsoft it helps us write and run code on our machine.
 
 
 ### 2. Setting up VS Code
@@ -32,7 +32,7 @@ https://code.visualstudio.com/
   
 
 
-+ Once you visit the link you will find a Download button there as shown:
++ Once you visit the link, you will find a Download button there as shown:
 
 ![Alt text](https://i.postimg.cc/BnkkXbmC/1.jpg)
 
@@ -56,7 +56,7 @@ https://code.visualstudio.com/
            
 
 
-+ Once it is downloaded, run the installer (VSCodeUserSetup-{version}.exe). And you will see something like this:
++ Once downloaded, run the installer (VSCodeUserSetup-{version}.exe). And you will see something like this:
 
 ![Alt text](https://i.postimg.cc/CKV1bh1j/3.jpg)
 
@@ -74,7 +74,7 @@ https://code.visualstudio.com/
 
 
 
-+ Now this will appear, again do not change anything and click next:
++ Now this will appear, do not change anything and click next:
 
 ![Alt text](https://i.postimg.cc/gJg293KD/5.jpg)
                   
@@ -92,7 +92,7 @@ https://code.visualstudio.com/
             
 
 
-+ After this step your VS code will be installed and you will be able to locate an icon on the desktop and then click on Finish Button. 
++ After this step your VS code will be installed and you can locate an icon on the desktop and then click on Finish Button. 
 
 ![Alt text](https://i.postimg.cc/zGTDzsj3/8.jpg)
                     
@@ -115,14 +115,14 @@ Extensions in Visual Studio Code (VS Code) are add-ons that expand the functiona
 
 ### Using Extensions:
                  
-+ When we open the VS code we see an interface like this:
++ When you open the VS code you see an interface like this:
 
 ![Alt text](https://i.postimg.cc/kX6XZ6RQ/9.jpg)
 
 
 
 
-+ On the left side of the VS code window we can see a sidebar with 5 different logos i.e. :
++ On the left side of the VS code window you can see a sidebar with 5 different logos i.e. :
 
 ![Alt text](https://i.postimg.cc/sx8fxyqG/10.jpg)
 
@@ -135,7 +135,7 @@ Extensions in Visual Studio Code (VS Code) are add-ons that expand the functiona
 
 
 
-+ From here you can search for different Extensions which will help you install and run different languages and Frameworks.
++ From here you can search for different Extensions that will help you install and run different languages and Frameworks.
 
 + Whenever you select an extension the following page appears here you need to click the “Install” button to add that extension:
 
@@ -167,7 +167,7 @@ GitHub is a web-based platform designed for hosting and managing software develo
 ### 2. Some key concepts of GitHub are:
 
 ### Repositories
-Repositories, or "repos," are like folders that store all the files and data associated with a project. They can be public or private and contain everything from code files to images or documents.
+Repositories or "repos" are like folders that store all the files and data associated with a project. They can be public or private and contain everything from code files to images or documents.
 
 ### Branches
 Branches in VS Code, much like in other version control systems, are separate paths for your code changes. They allow you to work on new features or fixes without affecting the main codebase directly. 
@@ -177,10 +177,10 @@ Branches in VS Code, much like in other version control systems, are separate pa
 Commits are essentially saved checkpoints of your code. They capture all the changes you've made at a specific point in time, acting like snapshots that preserve the history of your project. Each commit is accompanied by a message that describes the changes you've made. These commits help you keep track of the development progress, allowing you to revert to previous versions if needed and collaborate effectively by sharing your changes in a structured manner.
 
 ### Pull Requests (PRs)
-A pull request is a request to merge changes made in a branch into another branch, usually the main branch (e.g., merging a feature branch into the master branch).Pull requests facilitate collaboration and code review. They allow team members to discuss changes, review the code, and ensure that the proposed changes meet the project's standards before merging.
+A pull request is a request to merge changes made in a branch into another branch, usually the main branch (e.g., merging a feature branch into the master branch). Pull requests facilitate collaboration and code review. They allow team members to discuss changes, review the code, and ensure that the proposed changes meet the project's standards before merging.
 
 ### Issues
-Issues are used to track bugs, tasks, or feature requests related to a repository. They serve as a communication tool to discuss problems or propose enhancements. Issues help organize and priorities work by providing a centralized place for discussion, assigning tasks, and tracking progress.
+Issues are used to track bugs, tasks, or feature requests related to a repository. They serve as a communication tool to discuss problems or propose enhancements. Issues help organize and prioritize work by providing a centralized place for discussion, assigning tasks, and tracking progress.
 
 
 
