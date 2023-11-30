@@ -1,6 +1,25 @@
 # Environment Setup
 
+### Table of Contents
 
+1. **IDE**
+2. **VS Code**:
+      + Introduction
+      + Setting up
+      + Extensions
+3. **Github**:
+      + Introduction
+      + Key Concepts:   
+             a) Commit  
+             b) Pull Requests  
+             c) Issues  
+             d) Branches  
+             e) Repositories 
+      + Creating a GitHub Account
+      + Cloning Repositories
+           
+   
+---
 
 ## A. IDE 
 
