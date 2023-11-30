@@ -21,7 +21,7 @@
    
 ---
 
-## A. IDE 
+## a. IDE 
 
 
 
@@ -30,10 +30,10 @@ IDE stands for Integrated Development Environment. It's a software that has ever
 
 For this Course, you will be using VS code as your IDE and you will be coding in the same IDE.
 
-- - - 
 
 
-## B. VS Code
+
+## b. VS Code
 
 ### 1. Introduction to VS Code
 
@@ -165,18 +165,7 @@ Extensions in Visual Studio Code (VS Code) are add-ons that expand the functiona
 
 
 
-
-
-
-
-
-
-- - - 
-
-
-
-
-## C. GitHub
+## c. GitHub
 
 
 ### 1. Introduction to GitHub: 
