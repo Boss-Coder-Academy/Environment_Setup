@@ -1,6 +1,6 @@
 # Environment Setup
 
-### Table of Contents
+### Agenda
 
 1. **IDE**
 2. **VS Code**:
